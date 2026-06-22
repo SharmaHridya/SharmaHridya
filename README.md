@@ -95,7 +95,7 @@ I'm always open to collaborating on interesting projects or just having a good c
 | Platform | Link |
 |----------|------|
 | 📧 Email | [Hridyas.ic.25@nitj.ac.in](mailto:Hridyas.ic.25@nitj.ac.in) |
-| 🐙 GitHub | [hridyasharma2529-sketch](https://github.com/hridyasharma2529-sketch) |
+| 🐙 GitHub | [SharmaHridya](https://github.com/hridyasharma2529-sketch) |
 
 ---
 
