@@ -22,7 +22,7 @@ I'm a passionate undergraduate student at **Dr. B. R. Ambedkar National Institut
 I enjoy working across the stack—from crafting responsive user interfaces to developing scalable backend APIs—and continuously strengthen my problem-solving skills through Data Structures & Algorithms.
 
 - 🔭 Building full-stack web applications using **React**, **FastAPI**, and **Django**
-- 🌱 Currently learning advanced backend development, authentication, and REST APIs
+- 🌱 Now exploring **Machine Learning**, building on my backend and data skills
 - 💻 Solving **Data Structures & Algorithms** problems in **C++**
 - 🎨 Designing intuitive user experiences with **Figma**
 - 🚀 Interested in Software Engineering, Backend Development, and Open Source
@@ -101,12 +101,11 @@ A webcam-powered music app that uses AI body/wrist detection to trigger songs. H
 
 ### 🥁 HSN Matcher
 
-a tool that takes a plain-English product description and returns the most likely HSN/SAC code, GST rate, and a confidence-ranked shortlist with reasoning.
-
+A tool that takes a plain-English product description and returns the most likely HSN/SAC code, GST rate, and a confidence-ranked shortlist with reasoning.
 
 - **Tech Stack:** Django REST Framework · React · PostgreSQL + pgvector · Jina AI embeddings · Ollama Cloud (LLM reranking) · deployed on Render + Netlify
+- 🔗 [Live Demo](https://hsnmatcher.netlify.app/)
 
--https://hsnmatcher.netlify.app/
 ---
 
 ### 🎲 Dice Roll Game
@@ -129,14 +128,19 @@ A browser implementation of the classic Simon memory game where players repeat i
 
 ---
 
-## 📈 Currently Learning
+## ✅ Learned
 
-- 🌐 Django
 - ⚡ FastAPI
+- 🌐 Django
 - 🐘 PostgreSQL
 - 🔐 Authentication & Authorization
+- 🐼 Pandas
+- 🔢 NumPy
+
+## 🚧 Currently Working On
+
+- 🤖 Machine Learning
 - 📊 Data Structures & Algorithms
-- ☁️ Deployment & DevOps Fundamentals
 
 ---
 
