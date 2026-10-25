@@ -75,7 +75,7 @@ A modern full-stack e-commerce application featuring secure authentication, prod
 
 - **Tech Stack:** React · FastAPI · PostgreSQL · SQLAlchemy · Redux Toolkit
 - **Highlights:** JWT Authentication · Role-Based Access · REST APIs · Responsive UI
-- 🔗 [View]([https://github.com/hridyasharma2529-sketch](https://ecommerce-delta-rouge-32.vercel.app/))
+- 🔗 [View](https://ecommerce-delta-rouge-32.vercel.app/)
 
 ---
 
