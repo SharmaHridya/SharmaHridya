@@ -75,7 +75,7 @@ A modern full-stack e-commerce application featuring secure authentication, prod
 
 - **Tech Stack:** React · FastAPI · PostgreSQL · SQLAlchemy · Redux Toolkit
 - **Highlights:** JWT Authentication · Role-Based Access · REST APIs · Responsive UI
-- 🔗 [View on GitHub](https://github.com/hridyasharma2529-sketch)
+- 🔗 [View]([https://github.com/hridyasharma2529-sketch](https://ecommerce-delta-rouge-32.vercel.app/))
 
 ---
 
@@ -95,8 +95,7 @@ A webcam-powered music app that uses AI body/wrist detection to trigger songs. H
 
 - **Tech Stack:** HTML · CSS · JavaScript
 - **Highlights:** AI Wrist Detection · Gesture-Controlled Music Playback
-- 🔗 [Live Demo](https://hridyasharma2529-sketch.github.io/AI-Recognition-Music-App/) • [GitHub](https://github.com/hridyasharma2529-sketch/AI-Recognition-Music-App)
-
+  
 ---
 
 ### 🥁 HSN Matcher
